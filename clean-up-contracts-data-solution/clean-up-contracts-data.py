@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-author: Manish Maharjan
+
 email: dfrozenthrone@gmail.com
 """
 
